@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.summary-container {
+  align-self: flex-end;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.head {
+  color: #616e7c;
+  font-size: 20px;
+}
+
+.price {
+  color: black;
+}
+
+.para {
+  font-size: 15px;
+  color: #616e7c;
+}
+
+.btn {
+  background-color: #0b69ff;
+  color: white;
+  width: 150px;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 10px;
+}
